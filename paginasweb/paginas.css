@@ -1,0 +1,26 @@
+#menu{
+background-color: #3a000c;
+height: 100px;
+width: 200px;
+}
+
+#menu:hover{
+background-color: #ee194a;
+}
+a:link{
+color:white;
+}
+a:link:hover{
+color: #ffca16;
+}
+a:active{
+color: #ff0036;
+}
+
+a:nth-child(2n+1){
+
+}
+a:nth-child(2n){
+
+
+}

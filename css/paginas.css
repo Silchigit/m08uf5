@@ -1,0 +1,23 @@
+#menu{
+background-color: #3a000c;
+height: 100px;
+width: 200px;
+}
+
+#menu:hover{
+background-color: #ee194a;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+a:link{
+color:white;
+}
+a:link:hover{
+color: #ffca16;
+}
+a:visited{
+color: #ff0036;
+
+
